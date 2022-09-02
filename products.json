@@ -1,0 +1,18 @@
+{
+    "chair": {
+        "elements": {
+            "leg": 4,
+            "arm support": 2,
+            "backrest": 1,
+            "seat": 1
+        },
+        "time": 1
+    },
+    "table": {
+        "elements": {
+            "leg": 4,
+            "table top": 1
+        },
+        "time": 2
+    }
+}
